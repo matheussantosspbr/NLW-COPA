@@ -5,3 +5,8 @@ Server : "26 Min",
 Web : "Ok ",
 mobile : "Not"
 }
+
+Aula 2 : {
+Server : "Not",
+Web : "Ok ",
+}
