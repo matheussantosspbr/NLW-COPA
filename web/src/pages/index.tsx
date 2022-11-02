@@ -24,7 +24,7 @@ export default function Home(props: HomeProps) {
         <div className='mt-8 flex items-center gap-2'>
           <Image src={avatares} alt=""/>
           <strong className='text-gray-100 text-xl'>
-            <span className='text-iginite-500'>+12.592</span> pessoas já estão usando
+            <span className='text-iginite-500'>+{props.userCount}</span> pessoas já estão usando
           </strong>
         </div>
 
